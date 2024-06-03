@@ -3,7 +3,7 @@
 
 <p>I have worked on research projects focused on the application of machine learning in organizations to enhance decision-making processes.</p>  
 <p>I am interested in projects related to machine learning, both in academic research and industry. </p>
-You can contact me at  [ivanpalenciab@gmail.com](mailto:ivanpalenciab@gmail.com).
+You can contact me at  ivanpalenciab@gmail.com
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
